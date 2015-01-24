@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		6780E3241A743771002B382E /* AdamAndEve */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AdamAndEve; sourceTree = BUILT_PRODUCTS_DIR; };
 		6780E3271A743771002B382E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		6780E32E1A743A22002B382E /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		6780E31B1A743770002B382E = {
 			isa = PBXGroup;
 			children = (
+				6780E32E1A743A22002B382E /* README */,
 				6780E3261A743771002B382E /* AdamAndEve */,
 				6780E3251A743771002B382E /* Products */,
 			);
